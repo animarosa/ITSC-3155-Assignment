@@ -1,4 +1,4 @@
-# main.py
+# main (Assignment 1).py
 import data
 from sandwich_maker import SandwichMaker
 from cashier import Cashier
