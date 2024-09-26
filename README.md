@@ -1,1 +1,1 @@
-# ITSC-3155-Assignment-1
+# ITSC-3155-Assignments
